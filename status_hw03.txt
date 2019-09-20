@@ -8,7 +8,7 @@ Kevin Gendron
 practice.kevingendron.com
 
 3. What's the URL of your git repo?
-
+https://github.com/kagendro
 
 4. How much of the functionality did you complete?
 Not very much
