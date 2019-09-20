@@ -20,6 +20,9 @@ defmodule Practice do
     # Maybe delegate this too.
     [1,2,x]
   end
+  
+  def palindrome(word) when is_binary(word)  do
+    word == String.reverse(word)
+  end
 
-  # TODO: Add a palindrome? function.
 end
